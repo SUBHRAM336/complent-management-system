@@ -1,0 +1,161 @@
+.header
+{
+	background-color:green;
+}
+.header-item{
+	padding:6px;width:80%;
+}
+
+.header-item h2{
+	color:white;
+	font-family:Arial Black;
+
+	
+}
+.content
+{	
+}
+.left
+{
+height:500px;
+width:250px;
+float:left;	
+background-color:yellow;
+}
+.image{
+	background-image:url("123.png");
+	margin-left:260px;
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	height:500px;
+	background-size:50%;	
+}
+.notimage{
+	margin-left:260px;
+	background-size:50%;
+}
+.left-item{
+	padding-left:11%;
+}
+.left-item1 a:hover{
+	opacity:0.6;
+
+}
+.welcome h3{
+	padding-top:4%;
+	text-align:center;
+}
+.list-group-item
+{
+	padding-left:30px;
+}
+.footer
+{
+	background-color:blue;
+	margin-top:5px;
+	width:100%;
+	float:left;
+}
+
+
+.container{
+ width:70%;
+ margin-left:150px;
+ position:relative;
+ margin-top:80px;
+ background-color:white;
+ padding:10px;
+ border-radius:10px;
+ border:.5px solid black;
+ box-shadow:1px 2px 3px 0px;
+ opacity:98%;
+
+}
+.form-control
+{
+	border-bottom:1px solid black;
+	border-left:0px;
+	border-top:0px;
+	border-right:0px;
+}
+.form-controlbtnbtn-primary
+{
+	border-radius:10px;
+}
+.button1
+{
+	border:none;
+	color:black;
+	padding:40px;
+	margin:5px 10px;
+	cursor:pointer;
+	background-color:white;
+	color:black;
+	font-size:15px;
+	width:90%;
+}
+.button1:hover
+{
+background-color:yellow;	
+}
+.space
+{
+	height:5px;
+
+}
+
+
+.container1{
+ width:70%;
+ margin-left:100px;
+ position:relative;
+ margin-top:-14px;
+ margin-bottom:-10px;
+ background-color:white;
+ padding:10px;
+ border-radius:10px;
+ border:.5px solid black;
+ box-shadow:1px 2px 3px 0px;
+ opacity:98%;
+}
+.home
+{
+text-decoration:none;	
+}
+.user
+{
+	float:left;
+	width:25%;
+	height:500px;
+}
+.container4{
+ width:70%;
+ margin-left:150px;
+ position:relative;
+ margin-top:-20px;
+ background-color:white;
+ padding:10px;
+ border-radius:10px;
+ border:.5px solid black;
+ box-shadow:1px 2px 3px 0px;
+ opacity:98%;
+
+}
+#file1,#file3{
+				display:inline-block;
+				font-size:10px;
+				margin-left:50px;
+				padding:20px;
+				border:1px solid black;
+				background-color:white;
+}
+.welcome1
+{
+	margin-left:15px;
+	margin-top:20px;
+}
+.button
+{
+	width:90%;
+	margin-left:10px;
+}
